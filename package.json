@@ -1,13 +1,13 @@
 {
-  "name": "seed-generator",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "ethereum-wallet-seed-generator",
+  "version": "0.0.1",
+  "description": "Seed Generator for Ethereum Wallet",
+  "main": "generator.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node generator.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Smart Guy",
+  "license": "MIT",
   "type": "module",
   "dependencies": {
     "bs58": "^6.0.0",
