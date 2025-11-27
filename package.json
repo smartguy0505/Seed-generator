@@ -10,6 +10,8 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
+    "@noble/ed25519": "^1.7.5",
+    "@noble/hashes": "^2.0.1",
     "bs58": "^6.0.0",
     "ethers": "^6.15.0"
   }
